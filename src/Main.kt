@@ -1,4 +1,3 @@
-import java.util.Scanner
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
@@ -10,7 +9,7 @@ for (i in 1..5){
     for (j in 1..i){
         print("*")
     }
-    var number=i-1
+     var number=i-1
     for (c in 1..number){
         print("*")
     }
